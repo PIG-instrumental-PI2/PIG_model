@@ -1,0 +1,5 @@
+notebook
+pandas
+numpy
+matplotlib==3.5.1
+scikit-learn==1.0.2
